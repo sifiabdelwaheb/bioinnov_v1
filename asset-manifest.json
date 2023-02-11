@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/bioinnov_v1/static/css/main.e6c13ad2.css",
-    "main.js": "/bioinnov_v1/static/js/main.dd9f8d1d.js",
+    "main.js": "/bioinnov_v1/static/js/main.dcc447ec.js",
     "App.css": "/bioinnov_v1/static/css/App.ba0900ec.chunk.css",
-    "App.js": "/bioinnov_v1/static/js/App.84793ff8.chunk.js",
+    "App.js": "/bioinnov_v1/static/js/App.d3208523.chunk.js",
     "static/js/269.b3c84fbd.chunk.js": "/bioinnov_v1/static/js/269.b3c84fbd.chunk.js",
     "static/media/Plantval3.png": "/bioinnov_v1/static/media/Plantval3.6e9dc8a91aea335d84ef.png",
     "static/media/genomett.jpg": "/bioinnov_v1/static/media/genomett.d67b32fa1419e8435369.jpg",
@@ -38,13 +38,13 @@
     "static/media/BioInnov8_logo-removebg-preview-_1_.svg": "/bioinnov_v1/static/media/BioInnov8_logo-removebg-preview-_1_.d6419693b06558c2a3b096ae898bdb6d.svg",
     "index.html": "/bioinnov_v1/index.html",
     "main.e6c13ad2.css.map": "/bioinnov_v1/static/css/main.e6c13ad2.css.map",
-    "main.dd9f8d1d.js.map": "/bioinnov_v1/static/js/main.dd9f8d1d.js.map",
+    "main.dcc447ec.js.map": "/bioinnov_v1/static/js/main.dcc447ec.js.map",
     "App.ba0900ec.chunk.css.map": "/bioinnov_v1/static/css/App.ba0900ec.chunk.css.map",
-    "App.84793ff8.chunk.js.map": "/bioinnov_v1/static/js/App.84793ff8.chunk.js.map",
+    "App.d3208523.chunk.js.map": "/bioinnov_v1/static/js/App.d3208523.chunk.js.map",
     "269.b3c84fbd.chunk.js.map": "/bioinnov_v1/static/js/269.b3c84fbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.dd9f8d1d.js"
+    "static/js/main.dcc447ec.js"
   ]
 }
