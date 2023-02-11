@@ -36,7 +36,7 @@ Table of Contents
 */
 
 module.exports = {
-  /* 01.General */
+/* 01.General */
   "general.copyright": "Gogo React © 2018 All Rights Reserved.",
 
   /* 02.User Login, Logout, Register */
@@ -291,6 +291,12 @@ module.exports = {
 
   /* 06.Applications */
 
+  /* 06.01.Chat */
+  "chat.messages": "Message",
+  "chat.contacts": "Contacts",
+  "chat.contactUs": "Register",
+  "chat.saysomething": "Say something..",
+
   /* 06.02.Survey */
   "survey.delete": "Delete",
   "survey.edit": "Edit",
@@ -374,6 +380,55 @@ module.exports = {
   "badge.info": "Info",
   "badge.light": "Light",
   "badge.dark": "Dark",
+
+  /* 07.03.Buttons */
+  "button.default": "Bootstrap Default",
+  "button.colors": "Colors",
+  "button.rounded": "Rounded",
+  "button.outline": "Outline",
+  "button.states": "States",
+  "button.sizes": "Sizes",
+  "button.button-groups": "Button Groups",
+  "button.large-button": "Large Button",
+  "button.small-button": "Small Button",
+  "button.extra-small-button": "Extra Small Button",
+  "button.block-button": "Block Button",
+  "button.active": "Active",
+  "button.disabled": "Disabled",
+  "button.basic": "Basic",
+  "button.toolbar": "Toolbar",
+  "button.nesting": "Nesting",
+  "button.vertical-variation": "Vertical Variation",
+  "button.checkbox-radio-button": "Checkbox and Radio Button",
+  "button.checkbox": "Checkbox",
+  "button.radio": "Radio",
+  "button.radio-button": "Radio Button",
+  "button.primary": "Primary",
+  "button.secondary": "Secondary",
+  "button.success": "Success",
+  "button.danger": "Danger",
+  "button.warning": "Warning",
+  "button.info": "Info",
+  "button.light": "Light",
+  "button.dark": "Dark",
+  "button.states-text":
+    "This button shows a spinner for 2 seconds and an error icon for 3 seconds before switching to normal state. This states can be triggered by adding and removing classes.",
+  "button.click-here": "Click Here",
+  "button.states-text-alternate":
+    "This button shows a spinner for 2 seconds and an error icon for 3 seconds before switching to normal state. This states can be triggered by adding and removing classes.",
+  "button.primary-link": "Primary Link",
+  "button.link": "Link",
+  "button.primary-button": "Primary Button",
+  "button.button": "Button",
+  "button.left": "Left",
+  "button.middle": "Middle",
+  "button.right": "Right",
+  "button.dropdown": "Dropdown",
+  "button.dropdown-link": "Dropdown Link",
+  "button.read": "Read More",
+  "button.view": "View project",
+  "button.account": "Create Account",
+  "button.send": "Send",
 
   /* 07.04.Cards */
   "cards.icon-card": "Icon Card",
@@ -631,11 +686,11 @@ module.exports = {
   "product.search": "Search",
   "forget.password": "Forgot your password ?",
   "verif.account": "You do not have an account ?",
-  //Home page
+  /* 03.Home page */
   "home.title": "Best Solution To Run Your Project Faster",
   "home.description":
     "We offer personalized solution to solve your specific work related problems or inconveniences. IT solution to facilitate the work flow, for better HR management, for a better organisation of your tasks and projects.",
-  //Our Services page
+  /* Our Services page */
   "services.title": "OUR SERVICES",
   "services.Health": "Health Care",
   "services.Healthdescription":
@@ -662,7 +717,16 @@ module.exports = {
   "area.description": "Easy Solutions for all Difficult IT Problems",
   "area.Partners": "Our Partners",
   "area.Awards": "Our Awards",
-
+  "contacts.location": "Our Location",
+  "contacts.email": "Email Address",
+  "contacts.call": "Call Us Free",
+  "contacts.touch": "GET IN TOUCH",
+  "contacts.description":
+    "Are you Ready for a Better, more Productive Business?",
+  "contacts.name": "Name *",
+  "contacts.email": "Email *",
+  "contacts.phone": "Phone *",
+  "contacts.message": "Message *",
   "about.company": "ABOUT COMPANY",
   "about.promise": "What We Promise High Quality Services",
   "about.experience": "YEARS EXPERIENCE",
@@ -674,16 +738,4 @@ module.exports = {
   "header.call": "Call for help:",
   "header.mail": "Mail to us:",
   "header.adress": "Our Address:",
-  /*
-  "contacts.location": "Our Location",
-  "contacts.email": "Email Address",
-  "contacts.call": "Call Us Free",
-  "contacts.touch": "GET IN TOUCH",
-  "contacts.description":
-    "Are you Ready for a Better, more Productive Business?",
-  "contacts.name": "Name *",
-  "contacts.email": "Email *",
-  "contacts.phone": "Phone *",
-  "contacts.message": "Message *",
-  */
 };

@@ -1,5 +1,5 @@
 import appLocaleData from 'react-intl/locale-data/fr';
-import enMessages from '../locales/fr_FR';
+import enMessages from '../locales/fr_fr';
 
 const frLang = {
     messages: {
