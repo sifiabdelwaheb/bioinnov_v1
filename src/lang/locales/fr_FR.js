@@ -161,7 +161,7 @@ module.exports = {
 
   "menu.service": "Nos Services",
   "menu.solution": "Nos solutions",
-  "menu.team": "Notre Équipe ",
+  "menu.team": "Nos Équipes ",
 
   /* 04.Dashboards */
   "dashboards.pending-orders": "Pending Orders",
@@ -737,5 +737,5 @@ module.exports = {
   "header.time": "Lundi - Vendredi:",
   "header.call": "Appeler à l'aide:",
   "header.mail": "Envoyez-nous un e-mail:",
-  "header.adress":"Notre adresse::"
+  "header.adress": "Notre adresse::",
 };
